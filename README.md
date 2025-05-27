@@ -23,7 +23,7 @@ I'm a passionate student exploring the world of software development. My journey
 
 ### 🌟 Featured Projects
 
-- [**dolphinstreak**](https://github.com/Redcoat21/dolphinstreak):  
+- [**dolphinstreak**](https://github.com/Redcoat21/dolphin-streak):  
   _A language learning website made using next.js, nest.js and gemini API, i made this together with my friends!_
 
 - [**bubblebae**](https://github.com/Redcoat21/bubblebae):  
